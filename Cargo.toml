@@ -1,0 +1,2 @@
+[workspace]
+members = ["xtask", "toptalk-rust", "toptalk-rust-common"]
